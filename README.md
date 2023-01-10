@@ -1,2 +1,2 @@
 # conflict-resolution
-## Oops another edit
+# This is a merge conflict test
